@@ -43,5 +43,11 @@ namespace _33___Criptografia_de_dados
             }
 
         }
+
+        private void buttonLimp_Click(object sender, EventArgs e)
+        {
+            textBoxEntrada.Text = "";
+            textBoxSaida.Text = "";
+        }
     }
 }

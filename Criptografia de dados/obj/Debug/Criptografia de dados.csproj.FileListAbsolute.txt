@@ -1,0 +1,11 @@
+C:\Users\vitor\Desktop\Arquivos\Projetos\CriptografiaDados\Criptografia de dados\bin\Debug\33 - Criptografia de dados.exe.config
+C:\Users\vitor\Desktop\Arquivos\Projetos\CriptografiaDados\Criptografia de dados\bin\Debug\33 - Criptografia de dados.exe
+C:\Users\vitor\Desktop\Arquivos\Projetos\CriptografiaDados\Criptografia de dados\bin\Debug\33 - Criptografia de dados.pdb
+C:\Users\vitor\Desktop\Arquivos\Projetos\CriptografiaDados\Criptografia de dados\obj\Debug\Criptografia de dados.csproj.AssemblyReference.cache
+C:\Users\vitor\Desktop\Arquivos\Projetos\CriptografiaDados\Criptografia de dados\obj\Debug\Criptografia de dados.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitor\Desktop\Arquivos\Projetos\CriptografiaDados\Criptografia de dados\obj\Debug\_33___Criptografia_de_dados.Form1.resources
+C:\Users\vitor\Desktop\Arquivos\Projetos\CriptografiaDados\Criptografia de dados\obj\Debug\_33___Criptografia_de_dados.Properties.Resources.resources
+C:\Users\vitor\Desktop\Arquivos\Projetos\CriptografiaDados\Criptografia de dados\obj\Debug\Criptografia de dados.csproj.GenerateResource.cache
+C:\Users\vitor\Desktop\Arquivos\Projetos\CriptografiaDados\Criptografia de dados\obj\Debug\Criptografia de dados.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Desktop\Arquivos\Projetos\CriptografiaDados\Criptografia de dados\obj\Debug\33 - Criptografia de dados.exe
+C:\Users\vitor\Desktop\Arquivos\Projetos\CriptografiaDados\Criptografia de dados\obj\Debug\33 - Criptografia de dados.pdb
